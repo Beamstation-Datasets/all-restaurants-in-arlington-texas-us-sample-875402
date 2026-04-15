@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Arlington, Texas with a population of over 394k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
+  "config_name": "All Restaurants in Arlington, Texas, US",
+  "export_job_id": "dfb6ea9f-cd0a-41fb-9fd5-43532d4fdcd3",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 875402,
+  "location_name": "Arlington",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-arlington-texas-us-sample-875402",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/875402/beamstation_875402_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.95,
+  "sample_records": 96,
+  "sample_sha256": "ce5db08ebf4522bcfb9cce885bcbb0e5bfeb58741cf52dd68d2e2b04117c555f",
+  "sample_size_bytes": 355113,
+  "total_records": 965,
+  "updated_at": "2026-04-09T13:53:21.816649+00:00"
+}
