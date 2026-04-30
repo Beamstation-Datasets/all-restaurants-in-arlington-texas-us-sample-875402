@@ -1,6 +1,6 @@
 # All Restaurants in Arlington, Texas, US
 
-> Free BeamStation sample export with 80 rows and masked direct-contact fields.
+> Free BeamStation sample export with 104 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `875402` |
 | Location | Arlington |
 | Category | Restaurants |
-| Full dataset size | 805 records |
-| Free sample size | 80 records (9.94%) |
-| Last export | 2026-04-23T13:01:11.672081+00:00 |
+| Full dataset size | 1,045 records |
+| Free sample size | 104 records (9.95%) |
+| Last export | 2026-04-30T13:28:47.562191+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-arlington-texas-us-sample-875402/releases/download/sample-latest/beamstation_875402_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
