@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c67edebb-15dc-4da7-a5ed-bf1fdb92382a",
+  "export_job_id": "8024057e-3cd6-4417-996d-7de43518c11a",
   "id_short": 875402,
-  "published_at": "2026-04-23T19:14:51Z",
+  "published_at": "2026-04-30T19:17:55Z",
   "repo_name": "all-restaurants-in-arlington-texas-us-sample-875402",
   "sample_asset_name": "beamstation_875402_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/875402/beamstation_875402_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 80,
-  "sample_sha256": "9cb9ea792f7c94987b349584d611e7ccdc563fa24fda78d3f7448be05ba2fafc",
-  "sample_size_bytes": 317811,
-  "total_records": 805
+  "sample_records": 104,
+  "sample_sha256": "2859349a7a71038bd40e99df024ea5f8d233c85576d5839ca4751fff143ebba3",
+  "sample_size_bytes": 327997,
+  "total_records": 1045
 }
